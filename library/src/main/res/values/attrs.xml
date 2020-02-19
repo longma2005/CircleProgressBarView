@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgressViewStyle">
+        <attr name="cpv_progress" format="integer"/>
+        <attr name="cpv_progressbarWidth" format="dimension"/>
+        <attr name="cpv_progressbarBackColor" format="color"/>
+        <attr name="cpv_progressbarFrontColor" format="color"/>
+        <attr name="cpv_showPercentText" format="boolean" />
+        <attr name="cpv_percentTextSize" format="dimension"/>
+        <attr name="cpv_percentTextColor" format="color"/>
+
+    </declare-styleable>
+</resources>
